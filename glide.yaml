@@ -1,0 +1,11 @@
+package: recipes
+import:
+- package: github.com/mattes/migrate
+  version: ^1.3.2
+- package: github.com/urfave/cli
+  version: ^1.19.1
+- package: github.com/gorilla/mux
+  version: ^1.6.1
+- package: github.com/stretchr/testify
+  version: ^1.2.1
+- package: github.com/jmoiron/sqlx
